@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Courtzcorner
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript & react
+- 🌱 I’m currently learning mobile development.
 - 💞️ I’m looking to collaborate on side projects.
 - 📫 How to reach me email me @ cjs25i@fsu.edu
 <!---
